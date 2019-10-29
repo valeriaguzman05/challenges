@@ -29,4 +29,4 @@ if( array1.length !== array2.length) {
     }
     console.log(true)
     console.log("Es anagrama")
-} 
+}
